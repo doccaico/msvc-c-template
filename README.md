@@ -2,8 +2,8 @@
 
 ### Required Softwares
 - [Build Tools for Visual Studio 2026][0]
-- [cmake][1]
-- [ninja][2]
+- [Cmake][1]
+- [Ninja][2]
 
 ### How to use
 ```sh
@@ -33,5 +33,5 @@ $ cmake --build build/release --config Release && build\release\app.exe
 ```
 
 [0]: https://visualstudio.microsoft.com/downloads/ "Build Tools for Visual Studio 2026"
-[1]: https://cmake.org/download/ "cmake - download"
-[2]: https://github.com/ninja-build/ninja/releases "ninja - download"
+[1]: https://cmake.org/download/ "Cmake - Download"
+[2]: https://github.com/ninja-build/ninja/releases "Ninja - Download"
